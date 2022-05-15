@@ -1,0 +1,1 @@
+void nuclearSecrets(char sourceFile[], char destinationFile[], char padFile[]);
